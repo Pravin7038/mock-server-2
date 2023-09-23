@@ -2,17 +2,39 @@
   "dogs": [
     {
       "id": 1,
-      "name": "Cherry",
-      "age": 2,
-      "place": "Visakhapatnam",
-      "gender": "Male"
+      "image":"https://placehold.jp/150x150.png",
+      "name": "Hasfdhasdf",
+      "description": "sgsgsfgbsfdgbsfdgsfgbsdfgvsgsdfgvsdg",
+      "gender": "Male",
+      "category":"T-shirt",
+      "price":1000
     },
     {
       "id": 2,
-      "name": "Tommy",
-      "age": 3,
-      "place": "Banglore",
-      "gender": "Female"
+      "image":"https://placehold.jp/150x150.png",
+      "name": "vmbvmbcnmcg",
+      "description": "sgsgsfgbsfdgbsfdgsfgbsdfgvsgsdfgvsdg",
+      "gender": "Male",
+      "category":"Shirt",
+      "price":2000
+    },
+    {
+      "id": 3,
+      "image":"https://placehold.jp/150x150.png",
+      "name": "vdvdvdvvzc",
+      "description": "sgsgsfgbsfdgbsfdgsfgbsdfgvsgsdfgvsdg",
+      "gender": "Female",
+      "category":"Jeans",
+      "price":3000
+    },
+    {
+      "id": 4,
+      "image":"https://placehold.jp/150x150.png",
+      "name": "asfadsfadsfaf",
+      "description": "sgsgsfgbsfdgbsfdgsfgbsdfgvsgsdfgvsdg",
+      "gender": "Female",
+      "category":"Suits",
+      "price":2000
     }
   ]
 }
